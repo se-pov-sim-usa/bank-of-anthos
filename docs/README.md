@@ -1,4 +1,4 @@
-## Documentation
+### Documentation
 
 <!-- This section is duplicated in the root README: https://github.com/GoogleCloudPlatform/bank-of-anthos#documentation -->
 
