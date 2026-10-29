@@ -101,7 +101,7 @@ spec:
                 name: environment-config
             - configMapRef:
                 name: service-api-config
-          image: <+artifact.image>
+          image: 759984737373.dkr.ecr.us-east-2.amazonaws.com/srm-bank-of-anthos-frontend:9f85aedb4681b4709afb3df43bda474bffe7b24c
           livenessProbe:
             httpGet:
               path: /ready
